@@ -5,7 +5,7 @@
 export const environment = {
   production: "No",
   serverUrl: "https://avyota.at",
-  env : "Local",
+  env : "Local1",
   NG_APP_SERVER_URL : "https://LCOAL-avyota.at",
 
 };
